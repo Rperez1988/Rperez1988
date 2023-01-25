@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a self taught developer
+Highly movtivated, self-starting developer seeking to launch a career building applications.
 
 
 ## 🌐 Socials:
