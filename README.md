@@ -1,5 +1,7 @@
 # Rick Perez👋
 
+** React JS - React Native - Django - Python 
+
 <!--
 **Rperez1988/Rperez1988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
