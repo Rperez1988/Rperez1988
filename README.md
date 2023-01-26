@@ -1,5 +1,5 @@
 # 💫 About Me:
-Highly movtivated, self-starting developer seeking to launch a career building applications.
+Highly movtivated, self-taught developer seeking to begin a career building applications.
 
 
 ## 🌐 Socials:
